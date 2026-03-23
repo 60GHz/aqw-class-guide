@@ -1,0 +1,17 @@
+# AQW Class Guide — Python dependencies
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0          # Faster HTML parser for BeautifulSoup
+pydantic>=2.0.0
+python-dotenv>=1.0.0
+
+# Discord bot (Phase 3)
+# discord.py>=2.3.0
+# discord-py-slash-command>=4.2.1
+
+# Scheduler (for daily legend post, refresh cron)
+# APScheduler>=3.10.0
+
+# Web API (Phase 4)
+# fastapi>=0.104.0
+# uvicorn>=0.24.0
